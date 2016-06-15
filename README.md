@@ -5,4 +5,4 @@
 ####1.新建你的iOS项目
 ####2.拖拽TdCalendarView.h/m到你的项目中
 ####3.选择你要作为日历的view，把它的类设置为TdCalendarView
-####4.cmd+m查看效果
+####4.cmd+R查看效果
